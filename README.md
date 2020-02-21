@@ -2,7 +2,7 @@
 
 "npm install to download all node modules packages"
 
-"Create the DB called "testing" and run the sql script to create the the user table on it"
+"Create the DB called "testing" and run the sql script to create the users table on it"
 
 "go to the client folder and run gulp to compile and create dist folder"
 
