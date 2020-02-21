@@ -4,7 +4,7 @@
 
 "run the sql script to create the database and the user table on mysql"
 
-"gulp to compile and create dist folder"
+"go to the client folder and run gulp to compile and create dist folder"
 
 "use xamp and put the formjs folder inside X:\xampp\htdocs\formjs"
 
